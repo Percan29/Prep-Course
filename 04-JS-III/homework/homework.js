@@ -189,6 +189,8 @@ function breakStatement(numero) {
   //devolver: "Se interrumpió la ejecución"
   //Pista: usá el statement 'break'
   // Tu código:
+  let arrNew = [];
+  for (let i = 0; i < 11; i+2)
 }
 
 function continueStatement(numero) {
